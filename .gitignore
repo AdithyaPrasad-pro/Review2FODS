@@ -1,0 +1,22 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Backup files
+*.bak
+
+# Large raw datasets (must not be pushed to GitHub)
+household_power_consumption.txt
+*.zip
+*.tar.gz
+
+# Environment & IDE
+.vscode/
+.idea/
+.env
+venv/
+env/
